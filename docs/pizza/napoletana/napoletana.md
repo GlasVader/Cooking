@@ -1,5 +1,10 @@
 # Pizza Napoletana
 
+Pizza Napoletana, also known as Neapolitan pizza, is a culinary treasure revered worldwide for its simplicity and exquisite taste.
+Originating from Naples, Italy, this traditional pizza style boasts a thin, soft, and slightly charred crust, created from high-protein flour, natural yeast, salt, and water, kneaded and left to rise for hours.
+The toppings are kept minimalistic, typically featuring San Marzano tomatoes, fresh mozzarella cheese made from buffalo milk, extra virgin olive oil, and basil leaves, resulting in a harmonious blend of flavors that burst with authenticity.
+Cooked in a wood-fired oven at blazing temperatures, Pizza Napoletana achieves a perfect balance of crispiness and chewiness in every bite, making it a culinary delight revered by pizza enthusiasts worldwide.
+
 ## Dough
 
 <div class="grid cards" markdown>
@@ -41,6 +46,7 @@
     <li>["Mozzarella"](napoletana.md#polishing-the-surface) the surface.</li>
     <li>[Grind the orb](napoletana.md#grinding-the-orb).</li>
     <li>Leave the orbs to rest for 12 h at room temperature.</br>Longer if stored in the fridge.</li>
+    <li>[Roll the dough out](napoletana.md#roll-out-the-dough).</li>
     </ol>
 
 </div>
@@ -57,9 +63,17 @@
     To give yourself more room to manoeuvre, especially during a hot summer, use cooled water or substitute some parts of the water with ice cubes.
     With this method, you should use the weight instead of the volume, since 1 kg of ice cubes is equal to 1 kg of water.
 
-### Polishing the surface
+### Smoothing the surface
 
-Before putting the dough to rest, we must ensure a closed surface.
+Before resting the dough, we need to make sure that the surface is closed.
+
+To do this, look for an already smooth part of the cut dough.
+Stretch this part slightly and place your pressed thumb and index fingertips on this smooth part.
+Now squeeze from underneath and push the dough through the hole your fingers created.
+When almost all of the dough has been pushed through, squeeze the hole to form an orb.
+
+The surface should be smooth, except for the part that was pushed last.
+The orb should look a little like a Mozzarella ball.
 
 <!-- add video -->
 
@@ -69,6 +83,8 @@ Before putting the dough to rest, we must ensure a closed surface.
 
 The cut needs to be smoothed out as well.
 Therefor we put the orb in hour palm and roll it with the cut facing the surface in a wiggling motion.
+
+This will smooth out the rough cut surface.
 
 <!-- add video -->
 
@@ -90,20 +106,30 @@ From there, begin to stretch out the dough a little.
 Do not use too much force, if you feel more resistance, rotate the dough a bit and stretch another part.
 Continue until you have a platelike mass about the size of your palm.
 
-??? info "Do not smush the edge"
+??? warning "Do not smush the edge"
 
     As with the rolling pin, massaging the future crust will prevent it from becoming fluffy.
     Try working from the center instead.
 
 ??? tip "Do not stress the gluten"
 
-    Because gluten forms a network, too much force will tear it apart.
+    Because gluten forms a network, too much force will tear it apart, especially in its early stages.
     Give the dough a little time to adjust to its new shape after initial rolling.
+
+From that point, continue stretching the dough until you have achieved the desired size.
+The dough should now be round, thin in the center and having a slightly thicker edge.
+
+The difference in rising is mostly due to the load of sauce and topping, so the center will remain thin while the edge evolves into a beautiful crust.
+
+??? info "Small holes"
+
+    The dough can sometimes tear despite careful handling.
+    Smaller tears can be fixed by pinching the dough.
 
 ## Sauce
 
 The original sauce does not need much.
-The golden rule of KISS <i><b>K</b>eep <b>I</b>t <b>S</b>imple (<b>S</b>tupid)</i> applies here as well.
+The golden rule of KISS, <i><b>K</b>eep <b>I</b>t <b>S</b>imple (<b>S</b>tupid)</i>, applies here as well.
 
 <div class="grid cards" markdown>
 
