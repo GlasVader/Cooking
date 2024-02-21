@@ -34,6 +34,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    # - header.autohide # cool feature, but nav and toc remain at their positions, leaving a funny gap
     - content.footnote.tooltips # does not work?
 
 markdown_extensions:
@@ -81,10 +82,10 @@ markdown_extensions:
 
 plugins:
     - search
-    - pdf-export:
-        verbose: true
-        media_type: print
-        enabled_if_env: ENABLE_PDF_EXPORT
+    # - pdf-export:
+    #     verbose: true
+    #     media_type: print
+    #     enabled_if_env: ENABLE_PDF_EXPORT
 
 extra_javascript:
   - javascripts/mathjax.js
