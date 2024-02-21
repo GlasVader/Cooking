@@ -4,7 +4,7 @@
 
 <div class="grid cards" markdown>
 
--   __Ingredients__
+- __Ingredients__
 
     ---
 
@@ -29,7 +29,7 @@
         * 1,2 l water
         * 62,5 gr salt
 
--   __Procedure__
+- __Procedure__
 
     ---
     <ol>
@@ -61,10 +61,16 @@
 
 Before putting the dough to rest, we must ensure a closed surface.
 
+<!-- add video -->
+
+<!-- add image of good polishing -->
+
 ### Grinding the orb
 
 The cut needs to be smoothed out as well.
 Therefor we put the orb in hour palm and roll it with the cut facing the surface in a wiggling motion.
+
+<!-- add video -->
 
 ### Roll out the Dough
 
@@ -72,11 +78,17 @@ Therefor we put the orb in hour palm and roll it with the cut facing the surface
 
     Be careful while rolling out the dough, since applying too much pressure will destroy the air bubbles we have introduces with the yeast.
 
+??? info "Using Semola"
+
+    Semola prevents the dough from sticking to the surface.
+    Do not be afraid to use it, the right amount will stick to the ball by itself.
+
+Pile up some *Semola* and place the orb on top.
 Start by "massaging" the orb in the center.
 Use the fingertips of both hands for that.
 From there, begin to stretch out the dough a little.
 Do not use too much force, if you feel more resistance, rotate the dough a bit and stretch another part.
-Continue until you have a "plate" about the size of your palm.
+Continue until you have a platelike mass about the size of your palm.
 
 ??? info "Do not smush the edge"
 
@@ -94,7 +106,8 @@ The original sauce does not need much.
 The golden rule of KISS <i><b>K</b>eep <b>I</b>t <b>S</b>imple (<b>S</b>tupid)</i> applies here as well.
 
 <div class="grid cards" markdown>
--   __Ingredients__
+
+- __Ingredients__
 
     ---
 
@@ -114,7 +127,7 @@ The golden rule of KISS <i><b>K</b>eep <b>I</b>t <b>S</b>imple (<b>S</b>tupid)</
         * a pinch of salt
         * some Oregano
 
--   __Procedure__
+- __Procedure__
 
     ---
     <ol>
@@ -125,4 +138,13 @@ The golden rule of KISS <i><b>K</b>eep <b>I</b>t <b>S</b>imple (<b>S</b>tupid)</
     </br>Some like to add olive oil, I prefer to leave out the salt, for the dough and the topping should provide enough.
     In some recipes the Oregano is left out.
     Experiment and find what suits you best.
+
 </div>
+
+## Toppings
+
+### Cheese
+
+Use a good Mozzarella.
+*Fior di Latte* is commonly used.
+It stands for *The bloom of cow's milk* and is widely regarded as one of the best choices for Pizza Napoletana.
