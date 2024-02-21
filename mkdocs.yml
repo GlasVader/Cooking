@@ -5,18 +5,20 @@ theme:
   font:
     text: Roboto
   name: material
+  include_search_page: false
+  search_index_only: true
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
     - navigation.instant
@@ -25,8 +27,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.tertiary
     - navigation.footer
     - toc.follow
+    - page.toc
     - search.suggest
     - search.highlight
     - search.share
@@ -46,6 +50,9 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.superfences:
       custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
       - name: flow
         class: uml-flowchart
         format: superfences.fence_code_format
@@ -61,6 +68,9 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
