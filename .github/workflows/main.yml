@@ -21,7 +21,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install mkdocs
-          pip install mkdocs-material  # Add this line
+          pip install mkdocs-material
 
       - name: Build the Mkdocs site
         run: mkdocs build
@@ -29,5 +29,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TESTFORWORKLOW }}  # Use the PAT instead of GITHUB_TOKEN
           publish_dir: ./site
