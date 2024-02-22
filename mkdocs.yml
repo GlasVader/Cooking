@@ -93,20 +93,12 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - Home: index.md #must remain here
+  - General:
+    - Start: index.md #must remain here
+    - Testarea Syntax: general/testarea/testarea.md
 
-  # - General:
-
-  #   - Fundamentals:
-
-  #     - Setting up the Kitchen:
-
-  #     - Tools:
-
-  #     - Cutting Techniques:
-
-  #     - Thermodynamics of Boiling:
-    
+    - Science of Cooking:
+      - Thermodynamics of Boiling: general/science_of_cooking/thermodynamics/thermodynamics_of_boiling.md
   #   - Oils:
     
   #   - Vegetables:
