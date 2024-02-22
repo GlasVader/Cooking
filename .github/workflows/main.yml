@@ -21,6 +21,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install mkdocs
+          pip install mkdocs-material  # Add this line
 
       - name: Build the Mkdocs site
         run: mkdocs build
