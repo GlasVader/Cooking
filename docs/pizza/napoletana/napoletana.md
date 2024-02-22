@@ -75,9 +75,7 @@ When almost all of the dough has been pushed through, squeeze the hole to form a
 The surface should be smooth, except for the part that was pushed last.
 The orb should look a little like a Mozzarella ball.
 
-<!-- add video -->
-
-<!-- add image of good polishing -->
+![alt text](img/smoothing.gif)
 
 ### Grinding the orb
 
@@ -86,7 +84,12 @@ Therefor we put the orb in hour palm and roll it with the cut facing the surface
 
 This will smooth out the rough cut surface.
 
-<!-- add video -->
+![alt text](img/grind.gif)
+
+The final orbs will look like this:
+
+![alt text](img/orbs.png)
+
 
 ### Roll out the Dough
 
@@ -172,5 +175,8 @@ The golden rule of KISS, <i><b>K</b>eep <b>I</b>t <b>S</b>imple (<b>S</b>tupid)<
 ### Cheese
 
 Use a good Mozzarella.
-*Fior di Latte* is commonly used.
+
+As well as the aforementioned Mozzarella di Buffala, there are other options that deserve more than an honourable mention.
+
+*Fior di Latte* is just as commonly used.
 It stands for *The bloom of cow's milk* and is widely regarded as one of the best choices for Pizza Napoletana.
