@@ -176,7 +176,7 @@ The golden rule of KISS, <i><b>K</b>eep <b>I</b>t <b>S</b>imple (<b>S</b>tupid)<
 
 Use a good Mozzarella.
 
-As well as the aforementioned Mozzarella di Buffala, there are other options that deserve more than an honourable mention.
+As well as the aforementioned *Mozzarella di Buffala*, there are other options that deserve more than an honourable mention.
 
 *Fior di Latte* is just as commonly used.
 It stands for *The bloom of cow's milk* and is widely regarded as one of the best choices for Pizza Napoletana.
