@@ -25,7 +25,7 @@ Cooked in a wood-fired oven at blazing temperatures, Pizza Napoletana achieves a
         * 1 kg flour
         * 1 g yeast
         * 0,6 l water
-        * 31.25 gr salt
+        * 31,25 gr salt
 
     === "for 10-11"
 
